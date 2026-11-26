@@ -1,4 +1,4 @@
-name: Sync Muse rules
+name: Sync Meta and Muse rules
 on:
   schedule:
     - cron: '17 2 * * *'
@@ -29,10 +29,10 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add Muse.list Muse-Supplement.list
+          git add Meta.list Muse.list Muse-Supplement.list
           if git diff --cached --quiet; then
             echo 'Rules unchanged'
           else
-            git commit -m 'chore: sync Muse rules'
+            git commit -m 'chore: sync Meta and Muse rules'
             git push origin HEAD:main
           fi
