@@ -1,0 +1,25 @@
+# NAME: Muse-Supplement
+# GENERATED: scripts/sync_muse.py; edit Muse-Custom.list instead
+# Upstream: https://github.com/Lxp1986/rules-and-scripts/blob/master/shadowrocket/muse/muse.list
+# Facebook coverage: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket/Facebook/Facebook.list
+# TOTAL: 20
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,metaaivm.com
+DOMAIN-SUFFIX,hatch.one
+DOMAIN-SUFFIX,willow606.com
+DOMAIN-SUFFIX,ecto1.ai
+DOMAIN,meta-ohttp-relay-prod.fastly-edge.com
+DOMAIN,meta-ohttp-relay-dev.fastly-edge.com
+DOMAIN,meta-ohttp-config-prod.fastly-edge.com
+DOMAIN,meta.privacy-gateway.cloudflare.com
+DOMAIN,meta.hpke-keys.privacy-gateway.cloudflare.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,mapbox.com
+DOMAIN-SUFFIX,maptiler.com
+DOMAIN-SUFFIX,metaaiusercontent.com
+DOMAIN-SUFFIX,ecto1usercontent.com
+DOMAIN-SUFFIX,museai.com
+DOMAIN-SUFFIX,hatch.club
+DOMAIN-SUFFIX,llama.com
+DOMAIN-SUFFIX,meta-agents-apps.workers.dev
