@@ -1,0 +1,19 @@
+# Local Muse additions; edit this file, not the generated lists.
+DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,metaaivm.com
+DOMAIN-SUFFIX,metaaiusercontent.com
+DOMAIN-SUFFIX,ecto1usercontent.com
+DOMAIN-SUFFIX,museai.com
+DOMAIN-SUFFIX,ecto1.ai
+DOMAIN-SUFFIX,hatch.club
+DOMAIN-SUFFIX,llama.com
+DOMAIN-SUFFIX,meta-agents-apps.workers.dev
+DOMAIN,auth.meta.com
+DOMAIN,accountscenter.meta.com
+DOMAIN,meta.graph.meta.com
+DOMAIN,ar.graph.meta.com
+DOMAIN,nest-static.fbcdn.net
+DOMAIN,meta-ohttp-config-prod.fastly-edge.com
+DOMAIN,meta-ohttp-relay-prod.fastly-edge.com
+DOMAIN,meta.privacy-gateway.cloudflare.com
