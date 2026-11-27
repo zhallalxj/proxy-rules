@@ -602,12 +602,12 @@ DOMAIN,nest-static.fbcdn.net
 DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN,developers.facebook.com
 DOMAIN-SUFFIX,atmeta.com
+DOMAIN-SUFFIX,threads.com
+DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,fb.gg
 DOMAIN-SUFFIX,fb.watch
 DOMAIN-SUFFIX,fbwat.ch
 DOMAIN-SUFFIX,tfbnw.net
-DOMAIN-SUFFIX,threads.com
-DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,analytics.facebook.com
 DOMAIN-SUFFIX,pixel.facebook.com
 DOMAIN-SUFFIX,graph.instagram.com
