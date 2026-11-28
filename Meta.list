@@ -608,7 +608,7 @@ DOMAIN-SUFFIX,fb.gg
 DOMAIN-SUFFIX,fb.watch
 DOMAIN-SUFFIX,fbwat.ch
 DOMAIN-SUFFIX,tfbnw.net
-DOMAIN-SUFFIX,analytics.facebook.com
-DOMAIN-SUFFIX,pixel.facebook.com
 DOMAIN-SUFFIX,graph.instagram.com
 DOMAIN-SUFFIX,graph-fallback.instagram.com
+DOMAIN-SUFFIX,analytics.facebook.com
+DOMAIN-SUFFIX,pixel.facebook.com
